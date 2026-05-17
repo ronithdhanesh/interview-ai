@@ -2,6 +2,11 @@ const jwt = require("jsonwebtoken")
 const blacklistTokenModel = require("../models/blacklist.model")
 
 
+/**
+ * @name authUser
+ * @description middleware for get-me
+ */
+
 async function authUser(req, res, next){
     const token = req.cookies.token;
 
