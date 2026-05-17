@@ -1,4 +1,0 @@
-92i0QBJ7r9IOFqMW
-ronith
-
-mongodb+srv://ronith:92i0QBJ7r9IOFqMW@interview-ai-cluster.xhw57t6.mongodb.net/interview-master
